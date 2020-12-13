@@ -1,0 +1,7 @@
+// Test first endpoint
+http://localhost:8082
+GET /
+
+// Test pasing parameter first name
+http://localhost:8082
+GET /persons/josue
